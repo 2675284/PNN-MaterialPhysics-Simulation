@@ -91,9 +91,3 @@ evaluate_model()
 ## 注意事项
 - 确保数据文件 `data/train_data.pth` 和 `data/test_data.pth` 存在。
 - 训练好的模型文件 `model/best_pinn_model_epoch_2000.pth` 用于评估模型。
-
-## 贡献
-欢迎大家贡献代码和提出建议，帮助完善这个项目。如果你发现了任何问题或有改进的想法，请提交 issue 或 pull request。
-
-## 许可证
-本项目使用 [MIT 许可证](https://opensource.org/licenses/MIT)。
